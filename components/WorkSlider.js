@@ -9,9 +9,9 @@ const workSlides = {
           link: "https://cro.pelangiservice.com/",
         },
         {
-          title: "sample2",
-          path: "/thumb2.jpg",
-          link: "https://cro.pelangiservice.com/",
+          title: "Speed Typing",
+          path: "/speed_typing1.png",
+          link: "https://speed-typing-five.vercel.app/",
         },
         {
           title: "sample3",
